@@ -1,0 +1,24 @@
+@media screen and (max-width: 991px) {
+
+    .nav-ham {
+        display: block;
+        margin-right: 20px;
+    }
+
+    .navlinks {
+    display: none;
+}
+    
+    .atag {
+        width: calc(50% - 10px);
+        height: 180px;
+    }
+
+    .miniimages {
+        gap: 20px;
+    }
+
+    .ctasec {
+        padding: 40px;
+    }
+}
